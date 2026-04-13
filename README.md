@@ -1,7 +1,14 @@
 # UFC-DASHBOARD🥊
 
 ## Descrição
-O UFC-DASHBOARD é um dashboard interativo feito no power BI, utilizando um dataset de dados com todas as lutas e cards do evento Ultimate Fighting Championship(UFC), com a finalidade de analisar e mostrar de forma interativa dados sobre o UFC
+O UFC-DASHBOARD é um dashboard interativo feito no power BI com o auxilio da biblioteca pandas do python, para a analise de dados de um dataset. Nesse dashboard foi utilizado um dataset de dados com todas as lutas e cards do evento Ultimate Fighting Championship(UFC), com a finalidade de mostrar de forma interativa dados sobre o UFC.
+
+## Pré-requisitos📍
+
+Para a vizualização completa do dataset, é necessario a instalação previa do aplicativo "Power bi desktop" no site da microsoft, com o aplicativo instalado, baixe o arquivo "ufc-dashboard.pbix" presente nesse repositorio, apos isso execute o arquivo no Power BI desktop e tenha a visão completa dos principais dados do UFC na palma da sua mão.
+
+## Cuidados❗
+Para o funcionamento total do dashboard, é de extrema importancia que o arquivo seja interpretado como um "arquivo.PBIX", para funcionar diretamente no power BI desktop
 
 ## Funcionalidades🥋
 O dashboard feito em power bi contam com funções interativas para deixar os amantes de MMA sempre ligados nas principais informações de toda a historia do UFC e de seus lutadores, as principais funcionalidades do dashboard são:
